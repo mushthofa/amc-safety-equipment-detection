@@ -1,0 +1,1 @@
+# amc-safety-equipment-detection
